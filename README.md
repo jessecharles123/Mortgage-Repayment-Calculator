@@ -10,7 +10,7 @@ Thanks for checking out this front-end coding challenge.
 
 **To do this challenge, you need a basic understanding of HTML, CSS and JavaScript.**
 
-## The challenge d
+## The challenge
 
 Your challenge is to build out this mortgage repayment calculator and get it looking as close to the design as possible.
 
